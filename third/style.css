@@ -268,5 +268,5 @@ main {
 }
 .random-btn:hover {
   background: var(--clr-primary-5);
-  color: var(--clr-primary-1);
+  color: var(--clr-white);
 }
