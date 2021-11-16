@@ -203,8 +203,7 @@ Questions
 .question-title {
   display: flex;
   justify-content: space-between;
-  align-items: center;
-  text-transform: uppercase;
+  align-items: center
   padding-bottom: 1rem;
 }
 .question-title p {
