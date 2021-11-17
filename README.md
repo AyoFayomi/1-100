@@ -1,35 +1,23 @@
 # 100 javascript projects for 100 days
-Day 1 : Background color genrator in static and dynamic(hex page) 
-url: <a href="https://simplecolors.netlify.app/" target="_blank">Google</a>
+Day 1 : <a href="https://www.simplecolors.netlify.app/" target="_blank">Background color genrator.</a>
 
-Day 2 : Static counter genrator
-url : [here](simplejscounter.netlify.app)
+Day 2 : <a href="https://www.simplejscounter.netlify.app/" target="_blank">Static counter genrator.</a>
 
-Day 3: Simple review slider
-url : [here](simplereview.netlify.app)
+Day 3:  <a href="https://www.simplereview.netlify.app/" target="_blank">Simple review slider.</a>
 
-Day 4 : Navigation bar component
-url : [here](simpletopnavbar.netlify.app)
+Day 4 :  <a href="https://www.simpletopnavbar.netlify.app/" target="_blank">Navigation bar component.</a>
 
-Day 5 : Side Navigation bar component
-url : [here](simplesidenav.netlify.app)
+Day 5 :  <a href="https://www.simplesidenav.netlify.app/" target="_blank">Side Navigation bar component.</a>
 
-Day 6 : Simple modal component
-url : [here](simplejsmodal.netlify.app)
+Day 6 : <a href="https://www.simplejsmodal.netlify.app/" target="_blank">Simple modal component.</a>
 
-Day 7 : Simple FAQ section component
-url : [here](simplefaq.netlify.app)
+Day 7 :  <a href="https://www.simplefaq.netlify.app/" target="_blank">Simple FAQ section component</a>
 
-Day 8 : Menu component
-url :   [here](simplejsmenu.netlify.app)
+Day 8 :  <a href="https://www.simplejsmenu.netlify.app/" target="_blank">Menu component</a>
 
-<a href="https://www.google.com/" target="_blank">Google</a>
 Day 9 :
-url :
 
 Day 10 :
-url :
-
 
 
 
