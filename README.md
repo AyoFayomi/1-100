@@ -23,7 +23,7 @@ url : [here](simplefaq.netlify.app)
 Day 8 : Menu component
 url :   [here](simplejsmenu.netlify.app)
 
-[Project explanation](simplejsmenu.netlify.app) 
+<a href="https://www.google.com/" target="_blank">Google</a>
 Day 9 :
 url :
 
