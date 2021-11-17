@@ -1,30 +1,27 @@
 # 100 javascript projects for 100 days
-Day 1 :
-url :
+Day 1 : Background color genrator in static and dynamic(hex page)
+url : simplecolors.netlify.app
 
-Day 1 :
-url :
+Day 2 : Static counter genrator
+url : simplejscounter.netlify.app
 
-Day 2:
-url :
+Day 3: Simple review slider
+url : simplereview.netlify.app
 
-Day 3 :
-url :
+Day 4 : Navigation bar component
+url : simpletopnavbar.netlify.app
 
-Day 4 :
-url :
+Day 5 : Side Navigation bar component
+url : simplesidenav.netlify.app
 
-Day 5 :
-url :
+Day 6 : Simple modal component
+url : simplejsmodal.netlify.app
 
-Day 6 :
-url :
+Day 7 : Simple FAQ section component
+url : simplefaq.netlify.app
 
-Day 7 :
-url :
-
-Day 8 :
-url :
+Day 8 : Menu component
+url :   implejsmenu.netlify.app
 
 Day 9 :
 url :
@@ -77,5 +74,8 @@ url :
 Day 24 :
 url :
 
-Day 24 :
+Day 25 :
+url :
+
+Day 26 :
 url :
