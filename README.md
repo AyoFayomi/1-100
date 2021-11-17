@@ -1,27 +1,27 @@
 # 100 javascript projects for 100 days
-Day 1 : Background color genrator in static and dynamic(hex page)
-Click [here](simplecolors.netlify.app) to go to live page
+Day 1 : Background color genrator in static and dynamic(hex page) 
+url: [here](simplecolors.netlify.app)
 
 Day 2 : Static counter genrator
-url : simplejscounter.netlify.app
+url : [here](simplejscounter.netlify.app)
 
 Day 3: Simple review slider
-url : simplereview.netlify.app
+url : [here](simplereview.netlify.app)
 
 Day 4 : Navigation bar component
-url : simpletopnavbar.netlify.app
+url : [here](simpletopnavbar.netlify.app)
 
 Day 5 : Side Navigation bar component
-url : simplesidenav.netlify.app
+url : [here](simplesidenav.netlify.app)
 
 Day 6 : Simple modal component
-url : simplejsmodal.netlify.app
+url : [here](simplejsmodal.netlify.app)
 
 Day 7 : Simple FAQ section component
-url : simplefaq.netlify.app
+url : [here](simplefaq.netlify.app)
 
 Day 8 : Menu component
-url :   implejsmenu.netlify.app
+url :   [here](simplejsmenu.netlify.app)
 
 Day 9 :
 url :
