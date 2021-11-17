@@ -1,6 +1,6 @@
 # 100 javascript projects for 100 days
 Day 1 : Background color genrator in static and dynamic(hex page) 
-url: [here](simplecolors.netlify.app)
+url: <a href="https://simplecolors.netlify.app/" target="_blank">Google</a>
 
 Day 2 : Static counter genrator
 url : [here](simplejscounter.netlify.app)
