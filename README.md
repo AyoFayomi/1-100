@@ -23,6 +23,7 @@ url : [here](simplefaq.netlify.app)
 Day 8 : Menu component
 url :   [here](simplejsmenu.netlify.app)
 
+[Project explanation](simplejsmenu.netlify.app) 
 Day 9 :
 url :
 
