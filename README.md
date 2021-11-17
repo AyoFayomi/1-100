@@ -1,19 +1,19 @@
 # 100 javascript projects for 100 days
-Day 1 : <a href="https://www.simplecolors.netlify.app/" target="_blank">Background color genrator.</a>
+Day 1 : <a href="https://simplecolors.netlify.app/" target="_blank">Background color genrator.</a>
 
-Day 2 : <a href="https://www.simplejscounter.netlify.app/" target="_blank">Static counter genrator.</a>
+Day 2 : <a href="https://simplejscounter.netlify.app/" target="_blank">Static counter genrator.</a>
 
-Day 3:  <a href="https://www.simplereview.netlify.app/" target="_blank">Simple review slider.</a>
+Day 3:  <a href="https://simplereview.netlify.app/" target="_blank">Simple review slider.</a>
 
-Day 4 :  <a href="https://www.simpletopnavbar.netlify.app/" target="_blank">Navigation bar component.</a>
+Day 4 :  <a href="https://simpletopnavbar.netlify.app/" target="_blank">Navigation bar component.</a>
 
-Day 5 :  <a href="https://www.simplesidenav.netlify.app/" target="_blank">Side Navigation bar component.</a>
+Day 5 :  <a href="https://simplesidenav.netlify.app/" target="_blank">Side Navigation bar component.</a>
 
-Day 6 : <a href="https://www.simplejsmodal.netlify.app/" target="_blank">Simple modal component.</a>
+Day 6 : <a href="https://simplejsmodal.netlify.app/" target="_blank">Simple modal component.</a>
 
-Day 7 :  <a href="https://www.simplefaq.netlify.app/" target="_blank">Simple FAQ section component</a>
+Day 7 :  <a href="https://simplefaq.netlify.app/" target="_blank">Simple FAQ section component</a>
 
-Day 8 :  <a href="https://www.simplejsmenu.netlify.app/" target="_blank">Menu component</a>
+Day 8 :  <a href="https://simplejsmenu.netlify.app/" target="_blank">Menu component</a>
 
 Day 9 :
 
