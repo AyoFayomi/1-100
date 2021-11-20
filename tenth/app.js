@@ -1,4 +1,4 @@
-// set date
+ // set date
 const date = document.getElementById('date');
 date.innerHTML = new Date().getFullYear();
 
@@ -34,10 +34,10 @@ window.addEventListener('scroll', () => {
         navbar.classList.remove('fixed-nav');
     }
     if (scrollHeight > 500 ){
-        toplink.classList.add('show-links');
+        toplink.classList.add('show-link');
     }
     else{
-        toplink.classList.remove('show-links');
+        toplink.classList.remove('show-link');
     }
 })
 
