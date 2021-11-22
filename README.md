@@ -23,8 +23,7 @@ Day 10 : <a href="https://smoothslide.netlify.app/" target="_blank">Smooth scrol
 
 Day 11 : <a href="https://abouttab.netlify.app/" target="_blank">About page with tab section</a>
 
-Day 12 :
-url :
+Day 12 :<a href="https://countdownjstimer.netlify.app/" target="_blank">Countdown timer</a>
 
 Day 13 :
 url :
