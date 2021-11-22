@@ -17,12 +17,11 @@ Day 8 : <a href="https://simplejsmenu.netlify.app/" target="_blank">Menu compone
 
 Day 9 : <a href="https://videojscontrol.netlify.app/" target="_blank">video backckgroud with controls and website preloader</a>
 
-Day 10 : <a href="https://https://smoothslide.netlify.app//" target="_blank">Smooth scroll with back to top btn.</a>
+Day 10 : <a href="https://smoothslide.netlify.app/" target="_blank">Smooth scroll with back to top btn.</a>
 
 
 
-Day 11 :
-url :
+Day 11 : <a href="https://abouttab.netlify.app/" target="_blank">Smooth scroll with back to top btn.</a>
 
 Day 12 :
 url :
