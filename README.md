@@ -25,8 +25,7 @@ Day 11 : <a href="https://abouttab.netlify.app/" target="_blank">About page with
 
 Day 12 :<a href="https://countdownjstimer.netlify.app/" target="_blank">Countdown timer</a>
 
-Day 13 :
-url :
+Day 13 : <a href="https://alternatelorem.netlify.app/" target="_blank">Alternate Lorem Ipsum</a>
 
 Day 14 :
 url :
