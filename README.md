@@ -27,8 +27,7 @@ Day 12 :<a href="https://countdownjstimer.netlify.app/" target="_blank">Countdow
 
 Day 13 : <a href="https://alternatelorem.netlify.app/" target="_blank">Alternate Lorem Ipsum</a>
 
-Day 14 :
-url :
+Day 14 : <a href="https://groceryjsapp.netlify.app/" target="_blank">Grocery list app with localStorage fuctionalities.</a>
 
 Day 15 :
 url :
