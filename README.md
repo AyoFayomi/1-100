@@ -29,8 +29,8 @@ Day 13 : <a href="https://alternatelorem.netlify.app/" target="_blank">Alternate
 
 Day 14 : <a href="https://groceryjsapp.netlify.app/" target="_blank">Grocery list app with localStorage fuctionalities.</a>
 
-Day 15 :
-url :
+Day 15 : <a href="https://carouselslider.netlify.app/" target="_blank">Slider with control buttons.</a>
+url : 
 
 Day 16 :
 url :
