@@ -31,8 +31,7 @@ Day 14 : <a href="https://groceryjsapp.netlify.app/" target="_blank">Grocery lis
 
 Day 15 : <a href="https://carouselslider.netlify.app/" target="_blank">Slider with control buttons.</a>
 
-Day 16 :
-url :
+Day 16 : <a href="https://calchd.netlify.app/" target="_blank">Simple Javascript Calculator.</a>
 
 Day 17 :
 url :
