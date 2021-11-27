@@ -3,14 +3,14 @@ body {
     font-family: "open sans", sans-serif;
 }
 #container{
-    width: 80%;
+    width: 90%;
     height: 650px;
     background: linear-gradient(rgba(0,0,0,.3), rgba(0,0,0,0.3)),   url(./bgImg.jpg);
     margin: 25px auto;
 }
 
 #calculator{
-    width: 350px;
+    width: 320px;
     height: 530px;
     background-color: #eaedef;
     top:  55px;
