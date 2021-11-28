@@ -33,8 +33,7 @@ Day 15 : <a href="https://carouselslider.netlify.app/" target="_blank">Slider wi
 
 Day 16 : <a href="https://calchd.netlify.app/" target="_blank">Simple Javascript Calculator.</a>
 
-Day 17 :
-url :
+Day 17 : <a href="https://tapmusicjs.netlify.app/" target="_blank">Tap music with animated balls.</a>
 
 Day 18 :
 url :
