@@ -1,0 +1,43 @@
+*{
+    box-sizing: border-box;
+}
+.gallery-img{
+    display: none;
+    height: 600px;
+}
+.active {
+    display: block;
+}
+.image-gallery{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    background-color: #0074d9;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 5px 20px;
+    border-color: transparent;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.prev{
+    margin-right: 15px;
+}
+.btn:disabled{
+    background-color: #777;
+    cursor: not-allowed;
+}
+
+
+
+
+
+.swiper-slide{
+    text-align: center;
+}
+img{
+    height: 600px;
+}
