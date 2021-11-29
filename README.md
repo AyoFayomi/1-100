@@ -35,8 +35,8 @@ Day 16 : <a href="https://calchd.netlify.app/" target="_blank">Simple Javascript
 
 Day 17 : <a href="https://tapmusicjs.netlify.app/" target="_blank">Tap music with animated balls.</a>
 
-Day 18 :
-url :
+Day 18 : <a href="https://swiperjsslider.netlify.app/" target="_blank">Slider with swiperjs resource.</a>
+url : 
 
 Day 19 :
 url :
