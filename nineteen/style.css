@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(222, 236, 253);
+    padding: 2em 0;
+}
+.doggos{
+    width: 80%;
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+}
+.dog-img{
+    width: 100%;
+    display: none;
+}
+.spinner{
+    margin-top: 120px;
+    align-items: center;
+    font-size: 50px;
+    text-align: center;
+    animation: 2s spin linear infinite;
+    display: none;
+}
+.show{
+    display: block;
+}
+
+
+@keyframes spin {
+    to {
+        transform : rotateZ(360deg)
+    }
+}
