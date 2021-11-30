@@ -35,9 +35,9 @@ Day 16 : <a href="https://calchd.netlify.app/" target="_blank">Simple Javascript
 
 Day 17 : <a href="https://tapmusicjs.netlify.app/" target="_blank">Tap music with animated balls.</a>
 
-Day 18 : <a href="https://swiperjsslider.netlify.app/" target="_blank">Slider with swiperjs resource.</a
+Day 18 : <a href="https://swiperjsslider.netlify.app/" target="_blank">Slider with swiperjs resource.</a>
 
-Day 19 : <a href="https://doggosjs.netlify.app/" target="_blank">Dog image generator according to selected breed built on dog.ceo api.</a>
+Day 19 : <a href="https://doggosjs.netlify.app/" target="_blank">Dog image generator according to selected breed built on dogceo api.</a>
 
 Day 20 :
 url :
